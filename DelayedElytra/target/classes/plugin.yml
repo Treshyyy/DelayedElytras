@@ -1,0 +1,13 @@
+name: Elytradl
+version: '1.0'
+main: trashy.elytradl.Main
+api-version: 1.13
+authors: [ Trashyy ]
+description: Delay for elytra
+
+
+commands:
+  delayedelytra:
+    aliases: [de]
+    description: "Basic command of the Delayed Elytra plugin"
+    permission: dle.reload

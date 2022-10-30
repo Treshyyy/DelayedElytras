@@ -1,0 +1,4 @@
+#In seconds
+Delay: 5
+prefix: "&b[DelayedElytra]"
+message: "&7You can't use elytra for another %time% seconds!"
